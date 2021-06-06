@@ -1,0 +1,6 @@
+[submodule "solana-szn-program"]
+	path = solana-szn-program
+	url = https://github.com/ngundotra/solana-szn-program
+[submodule "solana-szn-client"]
+	path = solana-szn-client
+	url = https://github.com/ngundotra/solana-szn-client
